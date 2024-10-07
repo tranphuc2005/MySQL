@@ -18,6 +18,7 @@ Mục tiêu là minh họa cách tương tác hiệu quả với cơ sở dữ l
   Tải và cài đặt MySQL từ [trang web chính thức](https://dev.mysql.com/downloads/).
   Trong quá trình cài đặt, bạn sẽ được yêu cầu thiết lập mật khẩu cho người dùng `root`. 
   Hãy lưu trữ cẩn thận mật khẩu này.
+  
  **Tải DbForge Studio For MySQL**
   DbForge Studio for MySQL là một công cụ quản lý cơ sở dữ liệu (Database Management Tool) với giao diện đồ họa (GUI) do công ty Devart phát triển. \
   Nó được xây dựng để tương tác với MySQL và MariaDB dễ dàng hơn.
